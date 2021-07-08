@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Final project</string>
+    <string name="belum_mendaftar">Belum Mendaftar</string>
+    <string name="login">Login</string>
+    <string name="masukan_email">Masukan Email</string>
+    <string name="masukan_password">Masukan Password</string>
+    <string name="daftar">Daftar</string>
+    <string name="sudah_mendaftar">Sudah Mendaftar</string>
 </resources>
